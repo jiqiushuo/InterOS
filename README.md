@@ -14,4 +14,4 @@ InterOS项目始于2018年,目的是为了给自制项目"InterPhone"和"IntPAD"
 
 目前支持设备：mipad 4、4plus   raspberry pi 3b+
 
-通过 jiqiushuo1006@126.com 向我们反馈！
+通过 jiqiushuo1006@163.com 向我们反馈！
